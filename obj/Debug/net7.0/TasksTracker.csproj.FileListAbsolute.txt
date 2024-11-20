@@ -1,0 +1,15 @@
+/Users/timosha/Documents/Projects/TasksTracker/obj/Debug/net7.0/TasksTracker.csproj.AssemblyReference.cache
+/Users/timosha/Documents/Projects/TasksTracker/obj/Debug/net7.0/TasksTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timosha/Documents/Projects/TasksTracker/obj/Debug/net7.0/TasksTracker.AssemblyInfoInputs.cache
+/Users/timosha/Documents/Projects/TasksTracker/obj/Debug/net7.0/TasksTracker.AssemblyInfo.cs
+/Users/timosha/Documents/Projects/TasksTracker/obj/Debug/net7.0/TasksTracker.csproj.CoreCompileInputs.cache
+/Users/timosha/Documents/Projects/TasksTracker/bin/Debug/net7.0/TasksTracker
+/Users/timosha/Documents/Projects/TasksTracker/bin/Debug/net7.0/TasksTracker.deps.json
+/Users/timosha/Documents/Projects/TasksTracker/bin/Debug/net7.0/TasksTracker.runtimeconfig.json
+/Users/timosha/Documents/Projects/TasksTracker/bin/Debug/net7.0/TasksTracker.dll
+/Users/timosha/Documents/Projects/TasksTracker/bin/Debug/net7.0/TasksTracker.pdb
+/Users/timosha/Documents/Projects/TasksTracker/obj/Debug/net7.0/TasksTracker.dll
+/Users/timosha/Documents/Projects/TasksTracker/obj/Debug/net7.0/refint/TasksTracker.dll
+/Users/timosha/Documents/Projects/TasksTracker/obj/Debug/net7.0/TasksTracker.pdb
+/Users/timosha/Documents/Projects/TasksTracker/obj/Debug/net7.0/TasksTracker.genruntimeconfig.cache
+/Users/timosha/Documents/Projects/TasksTracker/obj/Debug/net7.0/ref/TasksTracker.dll
