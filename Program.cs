@@ -6,29 +6,28 @@ class Program
 {
     static void Main()
     {
-        TaskManager tasks = new TaskManager();
-        Choise choise = new Choise();
+        TaskManager taskManager = new TaskManager();
+        Choise choise = new Choise(taskManager);
 
         while (true)
         {
-            Console.WriteLine("Выберете операцию:");
-            Console.WriteLine("1.Добавить задачу");
-            Console.WriteLine("2.Удалить задачу");
-            Console.WriteLine("3.Показать список задач");
-            Console.WriteLine("4.Изменить задачу");
-            Console.WriteLine("5.Выход");
-            Console.WriteLine();
+            Console.WriteLine("Выберите операцию:");
+            Console.WriteLine("1. Добавить задачу");
+            Console.WriteLine("2. Удалить задачу");
+            Console.WriteLine("3. Показать список задач");
+            Console.WriteLine("4. Изменить задачу");
+            Console.WriteLine("5. Выход");
 
             string? input = Console.ReadLine();
-            if (Choise.command.ContainsKey(input))
+            if (choise.GetCommands().ContainsKey(input))
             {
-                Choise.command[input].Invoke();
+                choise.GetCommands()[input].Invoke();
             }
             else
+            {
                 Console.WriteLine("Неверный выбор");
-
-            
+            }
         }
     }
-    
 }
+
